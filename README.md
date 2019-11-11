@@ -1,5 +1,6 @@
 # IBM-ML0101EN,  by [Gus Viola](https://linkedin.com/in/gusviola/)
-My notebook for the IBM - ML0101EN course on edX
+
+###My notebook for the IBM - ML0101EN course on edX
 =============================================
 
 ## Table of Contents
